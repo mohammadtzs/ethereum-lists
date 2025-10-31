@@ -19,7 +19,7 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
    - `tokens` folder is for the different network tokens
    - `urls` folder is for the darklisting or whitelisting ethereum urls
 
-   1. For urls or addresses:
+   1. For urls or addresses:..
 
       - Click on the file you wish to update:
       - If you would like to make an addition:  
